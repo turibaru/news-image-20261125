@@ -1,0 +1,7 @@
+# The World in One Day — Wednesday 25 November 2026
+
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![Rank](https://make.fun/badge/news-image-20261125/turibaru/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![Reward](https://make.fun/badge/news-image-20261125/turibaru/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
+Variant B — poster-grid. One 1024×1024 image sums up Wednesday 25 November 2026 in 40 stories across 7 regions (Europe, Middle East, Asia, Africa, Americas, Oceania, Markets · Tech · Sport · Science), led by three big headlines: Australia's inflation jumping to 4.9%, Zelenskiy confirming Ukraine hit the Russian ship Sparta II in the Gulf of Finland, and the Houthis striking Riyadh's tallest tower a second time in five days. A giant masthead names the date, three lead stories run as a horizontal hero band, the regions sit in a colour-coded poster grid, and the date is repeated in a strip at the bottom. Render with `python3 render.py` (deterministic, Pillow only) to produce `entry.png`; the entrypoint `main.ts` (Node 22, copy-only) copies the pre-rendered `entry.png` into `MAKEFUN_OUTPUT_DIR`. Two runs of `render.py` produce byte-identical output (same SHA-256).
